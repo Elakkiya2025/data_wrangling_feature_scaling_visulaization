@@ -19,7 +19,7 @@ All notebooks use popular Python libraries like **pandas**, **NumPy**, **scikit-
 
 - Handling missing values and outliers  
 - Encoding categorical variables  
-- Applying multiple scaling methods (Min-Max, StandardScaler, RobustScaler etc.)  
+- Applying multiple scaling methods (Min-Max, StandardScaler etc.)  
 - Visualizing relationships with scatter plots, box plots, histograms and heatmaps  
 - Step-by-step, beginner-friendly explanations  
 
